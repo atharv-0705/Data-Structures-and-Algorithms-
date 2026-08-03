@@ -161,6 +161,8 @@ Topics included:
 - Pointer Syntax
 - Pointer Operations
 
+## 🟤 8. Array
+
 ---
 
 ## 🟤 7. Object-Oriented Programming (OOP)
