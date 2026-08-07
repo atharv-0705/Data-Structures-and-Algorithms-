@@ -202,22 +202,7 @@ Topics included:
 
 ---
 
-# 🚀 Future Topics
 
-- Arrays
-- Strings
-- Recursion
-- Sorting Algorithms
-- Searching Algorithms
-- STL
-- Linked List
-- Stack
-- Queue
-- Trees
-- Binary Search Tree
-- Heap
-- Graph
-- Dynamic Programming
 
 ---
 
