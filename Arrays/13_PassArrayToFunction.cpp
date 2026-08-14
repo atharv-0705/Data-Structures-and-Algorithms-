@@ -1,3 +1,6 @@
+// When an array is passed to a function using void solve(int arr[]), it is
+// fundamentally passed by reference (as a pointer).
+
 #include<iostream>
 using namespace std;
 void change(int y[]){
